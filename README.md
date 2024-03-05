@@ -8,17 +8,7 @@ MathWeb UI is built to provide an intuitive and aesthetically pleasing interface
 
 ## Preview
 
-![MathWeb UI Preview](/path/to/your/screenshot.png)
+![MathWeb UI Preview](C:\Users\Amisha Singh\OneDrive\Desktop\Projects_series\MathsHUB\mathsHUB_SS.png)
 
-[View Live Demo](https://your-mathweb-website.com)
 
-## Getting Started
 
-To explore the UI locally, follow these steps:
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/mathweb-ui.git
-    cd mathweb-ui
-    `
